@@ -1,0 +1,49 @@
+seed: 2019
+dset: office-home # office, office-home, VISDA-C, VISDA-C, domainnet, PointDA_data
+max_epoch: 45
+interval: 45
+net: resnet50 # resnet101 for visda2017 and visdaRUST, resnet50 for others
+net_mode: fc # fc for office31 and office-home, fbc for others
+list_name: image_list_nrc # image_list_partial for officehome_partial dataset; image_list_imb for visdaRUST, image_list for others
+source: Cl
+target: Ar
+
+expname: tpami #
+key_info: of_config_nvc_gce
+
+s_model: null 
+root: ./DATASOURCE
+model_root: ./Models/officehome # office31, officehome_partial, visda2017, visdaRUST, domainnet_40, pointda
+output_dir: ./output
+log_dir: ./logs
+
+# lr
+lr_decay: True
+lr_decay_type: shot
+lr_F_coef: 0.5
+weight_decay: 5.0e-4 
+
+# --- baseline: False ---
+is_shot: False
+
+# --- NVC-LLN ---
+# --- smooth CA ---
+is_ca: True
+K: 3
+alpha: 1
+alpha_beta: 0.75  # 0.75
+alpha_decay: False
+smooth_ca: 0.8
+
+# --- data aug
+is_data_aug: True
+data_aug_coef: 0.1
+data_aug_temp: 1
+
+# --- C-LLN ---
+is_lln: True
+lln_type: gce # sl, elr, gjs
+beta: 0.2 
+lamb: 0.0 
+lln_coef: 0.3
+lln_mask: True # False for general LLN

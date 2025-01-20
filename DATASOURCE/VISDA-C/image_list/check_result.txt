@@ -1,0 +1,608 @@
+read line/total line = 500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_2aec6e6096e640add00d52e62bf14ee9__112_349_150.png
+read line/total line = 1000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_5e29fd83e0494cd815796a932d10290d__316_123_150.png
+read line/total line = 1500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_9cbbede82cf4f7e463a33dad5001f8d7__316_123_150.png
+read line/total line = 2000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_9cbbede82cf4f7e463a33dad5001f8d7__44_236_150.png
+read line/total line = 2500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_1eb1d7d471f3c4c0634efb708169415__299_349_165.png
+read line/total line = 3000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_5cbe5be753b5c7faf389d19fad321c37__180_123_150.png
+read line/total line = 3500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_4a9f55420d17c815d37636af9c7bcc34__282_123_150.png
+read line/total line = 4000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_4cb1c851d4333d1c4c3a35cee92bb95b__248_123_150.png
+read line/total line = 4500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_7ea57db538494a2fc1ccec171a275967__95_349_165.png
+read line/total line = 5000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_5fc63354b0156d113136bac5fdb5050a__265_236_165.png
+read line/total line = 5500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_9cbbede82cf4f7e463a33dad5001f8d7__333_236_165.png
+read line/total line = 6000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_4c3b1356008b3284e42e14fe98b0b5__112_349_150.png
+read line/total line = 6500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_8db0b83cee14e1e5eacd58bc9fc5db51__129_123_165.png
+read line/total line = 7000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_1d4ff34cdf90d6f9aa2d78d1b8d0b45c__180_349_150.png
+read line/total line = 7500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_8bde5a00c3caf9771d03b466c72ce41__316_236_150.png
+read line/total line = 8000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_7aac10eb5b285098774a720fca15e35b__299_349_165.png
+read line/total line = 8500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_2a2caad9e540dcc687bf26680c510802__231_236_165.png
+read line/total line = 9000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_3aa2ba8ca2aede556d96f75c7a1666e5__129_349_165.png
+read line/total line = 9500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_9b60b20ea5fe6f002a2fdfabfb4182ed__146_349_150.png
+read line/total line = 10000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_3f387e8586f92b6b7d3b11085e75c7ad__146_10_150.png
+read line/total line = 10500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_2bdb44eece3409a5a18e0889038e4fb6__27_349_165.png
+read line/total line = 11000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_1deb997079e0b3cd6c1cd53dbc9f7b8e__95_123_165.png
+read line/total line = 11500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_4cb1c851d4333d1c4c3a35cee92bb95b__61_349_165.png
+read line/total line = 12000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_3f387e8586f92b6b7d3b11085e75c7ad__248_123_150.png
+read line/total line = 12500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_3e0561d70c7fd4f51c6e4e20f2b76086__78_123_150.png
+read line/total line = 13000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_5fed73635306ad9f14ac58bc87dcf2c2__95_349_165.png
+read line/total line = 13500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_1_02691156_7f6af37cd64377e1cabcecce1c335df1__146_123_150.png
+read line/total line = 14000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/aeroplane/src_2_02691156_9d65814e1b252fb01636caafca838500__27_236_165.png
+read line/total line = 14500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_3_149__61_349_165.png
+read line/total line = 15000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_3_114__10_236_150.png
+read line/total line = 15500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_5_14-1-4__78_236_150.png
+read line/total line = 16000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_3_131__95_123_165.png
+read line/total line = 16500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_3_107__61_123_165.png
+read line/total line = 17000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_4_6565__231_349_165.png
+read line/total line = 17500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_5_13-1-1__129_123_165.png
+read line/total line = 18000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_3_128__27_10_165.png
+read line/total line = 18500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_5_16-4-3__146_349_150.png
+read line/total line = 19000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_3_110__10_349_150.png
+read line/total line = 19500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_5_11-2-1__129_236_165.png
+read line/total line = 20000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_3_131__282_123_150.png
+read line/total line = 20500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_5_18-5-4__44_349_150.png
+read line/total line = 21000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_5_13-1-1__27_123_165.png
+read line/total line = 21500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bicycle/src_5_14-4-3__44_123_150.png
+read line/total line = 22000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_609__95_236_165.png
+read line/total line = 22500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_593__112_349_150.png
+read line/total line = 23000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_589__248_123_150.png
+read line/total line = 23500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_650__146_236_150.png
+read line/total line = 24000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_616__95_10_165.png
+read line/total line = 24500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_2292b067ccd1bb2dff93e4ecafd3dedd__333_10_165.png
+read line/total line = 25000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_634__231_236_165.png
+read line/total line = 25500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_4273a55343037d40fc319b95010c3346__146_236_150.png
+read line/total line = 26000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_619__248_349_150.png
+read line/total line = 26500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_1984914daabaaa44afb5b09d8f4dd829__282_349_150.png
+read line/total line = 27000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_2_02924116_471005e286f5626b6eda31c44364df9f__299_123_165.png
+read line/total line = 27500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_2_02924116_f4369a3f1b28a7da78c6ad1c898f52db__265_236_165.png
+read line/total line = 28000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_bbff113e57da6566e99562689078395__44_349_150.png
+read line/total line = 28500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_4233caa4bda5d30f481aa8b5531c68a9__163_236_165.png
+read line/total line = 29000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_9a5ffdbb89d171e5b5b0c584eaac6c4c__197_123_165.png
+read line/total line = 29500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_2_02924116_290387f7da9b702941567ce9c420c236__10_349_150.png
+read line/total line = 30000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_cdfb80edb15ba29762e9ca743c2e311__282_123_150.png
+read line/total line = 30500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_4273a55343037d40fc319b95010c3346__146_10_150.png
+read line/total line = 31000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_660__78_10_150.png
+read line/total line = 31500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_671__180_236_150.png
+read line/total line = 32000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_610__112_236_150.png
+read line/total line = 32500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_2_02924116_a2859adca84473da892e7ae844e0da5__248_123_150.png
+read line/total line = 33000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_bbff113e57da6566e99562689078395__10_236_150.png
+read line/total line = 33500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_625__282_10_150.png
+read line/total line = 34000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_2_02924116_3c45d466c7e1c27367aa983983f9bf36__61_236_165.png
+read line/total line = 34500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_2_02924116_660e11eff2108a00f8ff821990890128__78_123_150.png
+read line/total line = 35000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_7c39944cf7564a05c05ee00ba679322__197_123_165.png
+read line/total line = 35500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_3_594__78_236_150.png
+read line/total line = 36000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_b7ae96e9df358c315195dd5f75892d01__146_10_150.png
+read line/total line = 36500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_2_02924116_8bf720e46c7f3dc2d27ba3fc43e70958__180_349_150.png
+read line/total line = 37000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_2_02924116_f4369a3f1b28a7da78c6ad1c898f52db__163_123_165.png
+read line/total line = 37500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_923dc3ec59c733a5fa07f5a050a0502a__129_10_165.png
+read line/total line = 38000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/bus/src_1_02924116_9c9946b6fbd1a5452fd6f371aed2b46c__248_349_150.png
+read line/total line = 38500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_1cf08633fc7e8d193d21cf61f69e40a4__282_349_150.png
+read line/total line = 39000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_692a66739b9ed5e14c88b7369bd6883d__10_236_150.png
+read line/total line = 39500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_2_02958343_588c2d2567fd900aefe5f291bc2f5fd0__333_10_165.png
+read line/total line = 40000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_2_02958343_d8c7f76320624fef02d716c401defb1__146_349_150.png
+read line/total line = 40500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_ef3ed9f139571826ce27281f3b76d1f5__61_10_165.png
+read line/total line = 41000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_2_02958343_a262c2044977b6eb52ab7aae4be20d81__129_236_165.png
+read line/total line = 41500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_2_02958343_7f2b01a53684e72154b49557f8ea8b42__129_349_165.png
+read line/total line = 42000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_b12e8616bb73f5daccaf7041f92bc85b__282_236_150.png
+read line/total line = 42500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_d86119f06459e996897844133a297d65__180_349_150.png
+read line/total line = 43000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_2_02958343_32189802f3d95fa46c56ebce3aa49447__129_10_165.png
+read line/total line = 43500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_180d1e3463c29355bda72093f9b5aa73__316_123_150.png
+read line/total line = 44000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_2_02958343_3bb3b6b85e4e42873680ae1a67758160__163_349_165.png
+read line/total line = 44500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_7bf415dbff028a3d4470fce578e2b84c__333_236_165.png
+read line/total line = 45000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_2_02958343_383f8d508b6f25f565d21723f535417__146_236_150.png
+read line/total line = 45500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_1f604bfb8fb95171ac94768c3754c895__180_123_150.png
+read line/total line = 46000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_1cd4a2c1b3b4a9661487189ebf835715__333_236_165.png
+read line/total line = 46500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_ecf4e8f49102db90a27a0cbcc84ba703__95_349_165.png
+read line/total line = 47000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_49f3932e6fe0828951cc889a6330ab15__197_349_165.png
+read line/total line = 47500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_647faf34f7fdb50c16abce8cb03e7794__265_349_165.png
+read line/total line = 48000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_e00fde4225d166b1ce929ad7e848003e__112_123_150.png
+read line/total line = 48500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_8fac42d0e74f5b454ca84d60642ec7e8__44_236_150.png
+read line/total line = 49000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_b5938ce8c35aac9b46f8ee02bd8f9824__95_123_165.png
+read line/total line = 49500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_1cd4a2c1b3b4a9661487189ebf835715__299_10_165.png
+read line/total line = 50000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_2_02958343_5d0e79c02907bb8f5cde8c99e4b182f9__146_236_150.png
+read line/total line = 50500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_2_02958343_13d0f68f32a86bdfe3857ce739e6606f__112_236_150.png
+read line/total line = 51000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/car/src_1_02958343_8fac42d0e74f5b454ca84d60642ec7e8__333_236_165.png
+read line/total line = 51500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_21-3-1__197_236_165.png
+read line/total line = 52000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_3-3-1__61_236_165.png
+read line/total line = 52500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_6-2-2__129_10_165.png
+read line/total line = 53000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_8-3-2__78_123_150.png
+read line/total line = 53500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_10-2-1__78_10_150.png
+read line/total line = 54000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_6-3-1__95_123_165.png
+read line/total line = 54500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_10-3-4__163_123_165.png
+read line/total line = 55000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_13-1-1__316_236_150.png
+read line/total line = 55500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_21-2-6__316_349_150.png
+read line/total line = 56000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_5-1-1__44_349_150.png
+read line/total line = 56500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_4_2__112_349_150.png
+read line/total line = 57000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_13-4-1__231_10_165.png
+read line/total line = 57500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_3_1530__112_10_150.png
+read line/total line = 58000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_13-5-1__61_123_165.png
+read line/total line = 58500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_2-2-5__316_10_150.png
+read line/total line = 59000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_20-2-1__265_123_165.png
+read line/total line = 59500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_16-2-5__214_123_150.png
+read line/total line = 60000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_4_2__282_10_150.png
+read line/total line = 60500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/horse/src_5_21-1-1__333_10_165.png
+read line/total line = 61000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_2_03624134_14f5a704b3898ec7426c116c412c132__10_349_150.png
+read line/total line = 61500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_3_1774__299_349_165.png
+read line/total line = 62000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_2_03624134_b0f9aad955aebe6759d0a47cd36512__78_236_150.png
+read line/total line = 62500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_2_03624134_ca5e9779bed60ea8c6c26a6a38f12bff__333_349_165.png
+read line/total line = 63000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_2_03624134_e03a2ab2b6506ca0ef1f81f15fbe736c__333_10_165.png
+read line/total line = 63500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_3_1710__27_236_165.png
+read line/total line = 64000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_2_03624134_1a1a5facf2b73e534e23e9314af9ae57__248_236_150.png
+read line/total line = 64500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_1897adf19953756d91687e259c21528d__265_123_165.png
+read line/total line = 65000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_2_03624134_ca5e9779bed60ea8c6c26a6a38f12bff__214_236_150.png
+read line/total line = 65500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_ce57682fdc1209731395331ebe4786cd__180_10_150.png
+read line/total line = 66000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_2_03624134_ca5e9779bed60ea8c6c26a6a38f12bff__95_123_165.png
+read line/total line = 66500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_3_1718__44_10_150.png
+read line/total line = 67000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_2_03624134_27f3ffbdbddf545d179125d1d357cdf5__299_123_165.png
+read line/total line = 67500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_3_1711__146_349_150.png
+read line/total line = 68000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_3_1713__265_236_165.png
+read line/total line = 68500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_acd9570aab1c4fd47e25b10df54e79de__316_349_150.png
+read line/total line = 69000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_3_1692__265_10_165.png
+read line/total line = 69500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_79505790e5d8365f4948b6ede15604a1__316_10_150.png
+read line/total line = 70000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_81ba3f06ec38eaa46016d22b1dfacd4b__95_123_165.png
+read line/total line = 70500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_832cbaf563c649305eec6d8d24f1fde1__129_349_165.png
+read line/total line = 71000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_3_1745__146_236_150.png
+read line/total line = 71500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_b31cf3ccb489ba2e7b635ec9828c6ec2__265_236_165.png
+read line/total line = 72000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_b16961b5dc1404d4df0719d707e5d64e__112_236_150.png
+read line/total line = 72500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_65c05c88c441009f5d0dded52efeb4fd__333_10_165.png
+read line/total line = 73000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_42d9f9c31522d61e8cf144cdbb59254f__214_123_150.png
+read line/total line = 73500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_1_03624134_13bf5728b1f3b6cfadd1691b2083e9e7__129_10_165.png
+read line/total line = 74000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_3_1745__129_123_165.png
+read line/total line = 74500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/knife/src_3_1768__197_349_165.png
+read line/total line = 75000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_f8f73c4ee5da94b076ee2dc2a279fa5e__282_123_150.png
+read line/total line = 75500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_3837c8ef573c2a7b360cf6eb12fae4__10_10_150.png
+read line/total line = 76000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_ebd02a4811dbb91b594057aa2102e240__163_236_165.png
+read line/total line = 76500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_3_2262__197_236_165.png
+read line/total line = 77000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_9ff5b01d1aec18b2aae529ab4a75c4af__61_349_165.png
+read line/total line = 77500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_a9e2a1de33b99d08b37378f3c85478b4__44_349_150.png
+read line/total line = 78000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_3_2282__180_236_150.png
+read line/total line = 78500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_89aa8433ae3b9a197395d58407f193ba__95_349_165.png
+read line/total line = 79000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_532e6f88a9975a27b37378f3c85478b4__282_123_150.png
+read line/total line = 79500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_c8d62fbab07d49a7e398c671c3b93e96__44_123_150.png
+read line/total line = 80000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_af2648ef08812a0aa747c19778aa6cc0__112_10_150.png
+read line/total line = 80500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_329e47988e39df1b8c1912cd8631ab82__214_349_150.png
+read line/total line = 81000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_de1f30fbebaa2cd675e2c647bf7937f3__248_10_150.png
+read line/total line = 81500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_3_2286__299_123_165.png
+read line/total line = 82000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_edc4c7a08293697db37378f3c85478b4__316_349_150.png
+read line/total line = 82500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_12ffd15dabd7e3b596b84415a3f1393b__299_349_165.png
+read line/total line = 83000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_53d6f04450a85fe9ca547803ba354ce__78_123_150.png
+read line/total line = 83500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_f1693f82a326cb8afe11eeaa72c8aa36__61_10_165.png
+read line/total line = 84000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_3_2240__146_10_150.png
+read line/total line = 84500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_9bc8441b3b70b7014a4c9ebcdcc46c40__95_10_165.png
+read line/total line = 85000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_3_2286__27_349_165.png
+read line/total line = 85500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_edc4c7a08293697db37378f3c85478b4__27_236_165.png
+read line/total line = 86000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_3_2224__316_349_150.png
+read line/total line = 86500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_365c1f92a54c8cb52a45a87054fa7272__146_236_150.png
+read line/total line = 87000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_a9e2a1de33b99d08b37378f3c85478b4__44_123_150.png
+read line/total line = 87500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_3_2266__197_236_165.png
+read line/total line = 88000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_48372a904ec9cda048272812609617e2__265_236_165.png
+read line/total line = 88500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_3_2216__231_236_165.png
+read line/total line = 89000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_53d6f04450a85fe9ca547803ba354ce__333_123_165.png
+read line/total line = 89500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_86b6dc954e1ca8e948272812609617e2__129_123_165.png
+read line/total line = 90000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_a2af2d47ac7bd232c3b8d605d6b133fb__10_10_150.png
+read line/total line = 90500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_bae59e64a50d3aa2f68f798d07e007b6__316_236_150.png
+read line/total line = 91000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_a9e2a1de33b99d08b37378f3c85478b4__282_123_150.png
+read line/total line = 91500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_1_03790512_d54e0f22d4604d741f24b86004bccc4d__265_349_165.png
+read line/total line = 92000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/motorcycle/src_2_03790512_ea01df8a5deb6b278e5369269261b398__265_349_165.png
+read line/total line = 92500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_5874__129_123_165.png
+read line/total line = 93000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_2659__112_123_150.png
+read line/total line = 93500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3066__112_123_150.png
+read line/total line = 94000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3124__146_10_150.png
+read line/total line = 94500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_1304__180_349_150.png
+read line/total line = 95000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3122__333_123_165.png
+read line/total line = 95500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_4347__95_123_165.png
+read line/total line = 96000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_6748__78_236_150.png
+read line/total line = 96500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3111__27_349_165.png
+read line/total line = 97000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_5877__146_123_150.png
+read line/total line = 97500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_5143__248_236_150.png
+read line/total line = 98000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3109__112_123_150.png
+read line/total line = 98500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3106__78_123_150.png
+read line/total line = 99000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3046__299_236_165.png
+read line/total line = 99500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_4347__95_10_165.png
+read line/total line = 100000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_4297__299_349_165.png
+read line/total line = 100500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3134__129_236_165.png
+read line/total line = 101000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3061__78_10_150.png
+read line/total line = 101500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_4060__316_236_150.png
+read line/total line = 102000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_6756__78_10_150.png
+read line/total line = 102500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3150__197_236_165.png
+read line/total line = 103000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_2674__61_123_165.png
+read line/total line = 103500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_4_2501__129_123_165.png
+read line/total line = 104000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/person/src_3_3084__316_349_150.png
+read line/total line = 104500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_4_10647__316_349_150.png
+read line/total line = 105000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_33-1-1__146_349_150.png
+read line/total line = 105500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_32-3-1__180_10_150.png
+read line/total line = 106000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_28-4-1__316_236_150.png
+read line/total line = 106500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_4_6083__10_236_150.png
+read line/total line = 107000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_33-3-1__265_10_165.png
+read line/total line = 107500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_4_9087__299_123_165.png
+read line/total line = 108000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_31-2-1__282_10_150.png
+read line/total line = 108500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_10-1-1__129_123_165.png
+read line/total line = 109000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_4_10502__299_10_165.png
+read line/total line = 109500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_20-1-1__299_349_165.png
+read line/total line = 110000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_14-2-1__112_123_150.png
+read line/total line = 110500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_30-1-1__112_349_150.png
+read line/total line = 111000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_11-4-1__214_123_150.png
+read line/total line = 111500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_18-2-1__333_236_165.png
+read line/total line = 112000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_4_9087__61_10_165.png
+read line/total line = 112500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_7-2-1__61_236_165.png
+read line/total line = 113000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_28-1-1__27_10_165.png
+read line/total line = 113500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_3-3-1__78_123_150.png
+read line/total line = 114000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_15-3-1__27_349_165.png
+read line/total line = 114500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_5_37-2-1__44_236_150.png
+read line/total line = 115000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/plant/src_4_6080__163_349_165.png
+read line/total line = 115500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_54b9d9a3565820e17f267bbeffb219aa__163_236_165.png
+read line/total line = 116000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_eb6246b73afb6383b77008f97c3030c__180_123_150.png
+read line/total line = 116500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_55f0e38a64ba2c2d813b65629a36678__27_123_165.png
+read line/total line = 117000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_2_04225987_7c009b2a37ad02a9a72f80277e176a2f__265_123_165.png
+read line/total line = 117500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_c7482cb7a8db514921cafafd7e7949c7__180_10_150.png
+read line/total line = 118000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_2_04225987_8f78a26403f09b708b3b3a08d28a7d7c__112_236_150.png
+read line/total line = 118500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_2_04225987_7c009b2a37ad02a9a72f80277e176a2f__265_10_165.png
+read line/total line = 119000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_2_04225987_e60f8e703bf6b7e8b267718342f3f316__95_349_165.png
+read line/total line = 119500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_ac5b849680f5e3791bb7158ebaf7e1c8__333_349_165.png
+read line/total line = 120000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_ffea27596947c29cc983a1dbe02fac40__27_349_165.png
+read line/total line = 120500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_994dc9307a0f228e30eaaf40a8a562c1__44_123_150.png
+read line/total line = 121000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_2_04225987_212e0563473156e255483301a044235__78_236_150.png
+read line/total line = 121500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_ac2b6924a60a7a87aa4f69d519551495__299_236_165.png
+read line/total line = 122000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_54b9d9a3565820e17f267bbeffb219aa__112_10_150.png
+read line/total line = 122500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_8b93703a2046ddf5519438329ccc67e5__129_123_165.png
+read line/total line = 123000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_2_04225987_c8aed131dd905c6e1082f2ea630bf69e__44_123_150.png
+read line/total line = 123500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_7c009b2a37ad02a9a72f80277e176a2f__333_10_165.png
+read line/total line = 124000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_2_04225987_26cd3bfcef1e254f82b02baba7166175__299_123_165.png
+read line/total line = 124500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_d31aaca67fd8ef1827d17dabad15093__180_236_150.png
+read line/total line = 125000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_7fc2cddac7ad57a2aa4eefa8f42b566e__299_123_165.png
+read line/total line = 125500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_2_04225987_e7a5dd6f6ac650977cbfdb97d3d9f05__231_123_165.png
+read line/total line = 126000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_2_04225987_35c281c44b5ee115f62521393bb9c2f6__27_349_165.png
+read line/total line = 126500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/skateboard/src_1_04225987_94fc692e0518c0b0537d393009a79347__265_123_165.png
+read line/total line = 127000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_3_2798__333_10_165.png
+read line/total line = 127500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_a10330472393343e44399be51ebd0ad9__180_349_150.png
+read line/total line = 128000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_734a3e7a655fe3afeb34db531a289b8e__163_349_165.png
+read line/total line = 128500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_d433ceb5bb3eece98c8b260b832217ab__180_123_150.png
+read line/total line = 129000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_96aac69e5f77277fa0e49cc1ab2aa478__282_349_150.png
+read line/total line = 129500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_214442a4247d8c049cbb6423d7247328__163_123_165.png
+read line/total line = 130000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_8d56ae45f65330beff6d47091cf62142__95_236_165.png
+read line/total line = 130500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_7f31a5c189a4c95d93cdde2be60b3ee4__44_236_150.png
+read line/total line = 131000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_e0486cf313d2ad90eff204cce5c18b06__265_349_165.png
+read line/total line = 131500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_840a2e6a291049ad85b408a8edc983b__333_349_165.png
+read line/total line = 132000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_3_2786__163_349_165.png
+read line/total line = 132500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_3_2836__197_236_165.png
+read line/total line = 133000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_3_2795__197_123_165.png
+read line/total line = 133500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_2d05eeac352398006bd10bf92325d933__333_10_165.png
+read line/total line = 134000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_ee396a4a5fac385f1183ae1f57465c4f__61_236_165.png
+read line/total line = 134500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_f646c4c40c7f16ae4afcfe0b72eeffb5__316_236_150.png
+read line/total line = 135000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_e0486cf313d2ad90eff204cce5c18b06__44_349_150.png
+read line/total line = 135500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_553450a802f3ae6b33bba21b4e20708b__61_123_165.png
+read line/total line = 136000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_ac3d0b9db6e5c9c29954eae9164faecb__299_123_165.png
+read line/total line = 136500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_bc1c21333b5e22bf8145a50db7d52d60__180_123_150.png
+read line/total line = 137000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_b9257fc9ef316cb56d99dfe91d90e769__78_10_150.png
+read line/total line = 137500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_7ae6c3c5d9518a5e982c7c6a3539d1c__27_123_165.png
+read line/total line = 138000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_1_04468005_ee396a4a5fac385f1183ae1f57465c4f__197_236_165.png
+read line/total line = 138500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_9b34d4118d5d72e9ed2f8e1c74f9fca9__299_236_165.png
+read line/total line = 139000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_3_2834__299_10_165.png
+read line/total line = 139500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_ce8f672133804c3ddc14ba0818ee5cec__10_123_150.png
+read line/total line = 140000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_713beb3434e30be68498191d94ca767a__265_123_165.png
+read line/total line = 140500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_3_2838__248_349_150.png
+read line/total line = 141000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_9b34d4118d5d72e9ed2f8e1c74f9fca9__95_236_165.png
+read line/total line = 141500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_2_04468005_8d56ae45f65330beff6d47091cf62142__44_10_150.png
+read line/total line = 142000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_3_2825__61_123_165.png
+read line/total line = 142500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/train/src_3_2800__95_236_165.png
+read line/total line = 143000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_3010__163_236_165.png
+read line/total line = 143500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2944__180_10_150.png
+read line/total line = 144000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2951__10_10_150.png
+read line/total line = 144500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2879__95_123_165.png
+read line/total line = 145000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2883__180_123_150.png
+read line/total line = 145500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2875__146_236_150.png
+read line/total line = 146000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2973__299_236_165.png
+read line/total line = 146500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2864__61_236_165.png
+read line/total line = 147000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_3006__112_10_150.png
+read line/total line = 147500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2950__265_123_165.png
+read line/total line = 148000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2914__299_10_165.png
+read line/total line = 148500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2909__265_236_165.png
+read line/total line = 149000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2857__112_349_150.png
+read line/total line = 149500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2974__299_349_165.png
+read line/total line = 150000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2947__180_10_150.png
+read line/total line = 150500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_3001__299_123_165.png
+read line/total line = 151000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2879__129_10_165.png
+read line/total line = 151500/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2974__78_123_150.png
+read line/total line = 152000/152396, error lines: 0
+Current Line: /scratch/gxu86/sfda_lln_extend/DATASOURCE/VISDA-C/train/truck/src_3_2972__44_236_150.png
