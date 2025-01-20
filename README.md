@@ -1,113 +1,130 @@
-# labelNoiseInSFDA
-Official Implementation for our Paper "Unraveling the Mysteries of Label Noise in Source-Free Domain Adaptation: Theory and Practice".
+# LabelNoiseInSFDA
 
-## Repo Structure
+Official implementation for our paper **"Unraveling the Mysteries of Label Noise in Source-Free Domain Adaptation: Theory and Practice"**.
 
-```
+---
+
+## Repository Structure
+
+```shell
+
 labelNoiseInSFDA/
-├── common/                                 # Datasets 
+├── common/                                 # Datasets
 │   ├── vision/
 │   │   └── datasets/
-├── config/                                 # yml examples
-├── DATASOURCE/                             # data
+├── config/                                 # Configuration files (YAML examples)
+├── DATASOURCE/                             # Data storage
 │   ├── domainnet/
-|   |   ├── image_list/
+│   │   ├── image_list/
 │   │   └── ...
 │   ├── office/
 │   ├── office-home/
 │   └── VISDA-C/
-├── Models/                                 # source model
-├── pointDA-10/                             # adaptation code for PointDA-10 dataset
+├── Models/                                 # Source models and checkpoints
+├── pointDA-10/                             # Adaptation code for PointDA-10 dataset
 │   └── train_tar_merged.py
-├── README.md
-├── train_source_imbalance.py
-├── train_target_labelNoise_SFDA.py         # main adaptation script
-├── loggers.py
-├── utils_dataloader.py
-├── utils_evaluation.py
-├── utils_lln_losses.py
-├── utils_loss.py
-├── utils_pseudo_label.py
-├── utils_source_train.py
-└── vis_sourcefree.py                       # network
+├── README.md                               # This file
+├── train_source_imbalance.py               # Source training script
+├── train_target_labelNoise_SFDA.py         # Main adaptation script
+├── loggers.py                              # Logging utilities
+├── utils_dataloader.py                     # Data loading utilities
+├── utils_evaluation.py                     # Evaluation utilities
+├── utils_lln_losses.py                     # Label noise loss implementations
+├── utils_loss.py                           # General loss functions
+├── utils_pseudo_label.py                   # Pseudo-labeling utilities
+├── utils_source_train.py                   # Source training utilities
+└── vis_sourcefree.py                       # Model architectures and networks 
 ```
-
-## Get Started
-
-### 1. Data Preparation
-
-For office-31, please download the data from [here](https://drive.google.com/file/d/1dmEhhzoP-dnVOqsV_zDUNRKUy4dKN6Bl/view?usp=sharing). Unzip the `office.zip` into `./DATASOURCE/`. Make sure the `image_list` folder is in the `./DATASOURCE/office/`.
-
-For office-home dataset, please download the data from [here](https://drive.google.com/file/d/1gRSeLmBTKWjSiqe6jRWaNsXTqzDdqKPr/view?usp=sharing). Unzip the `office-home.zip` into `./DATASOURCE/`. Make sure the `image_list_nrc` (for office-home) and `image_list_partial` (for partial set) are in the `./DATASOURCE/VISDA-C/` folder.
-
-For VisDA2017 dataset, the original data can be downloaded from [here](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification). Extract `train.tar` and `validation.tar` to ./DATASOURCE/VISDA-C. Make sure the `image_list` (for VisDA2017) and `image_list_imb` (for VisDA-RUST provided by [I-SFDA](https://github.com/LeoXinhaoLee/Imbalanced-Source-free-Domain-Adaptation)) are in the `./DATASOURCE/VISDA-C/` folder.
-
-For DomainNet dataset, the original dataset can be downloaded from [here](https://ai.bu.edu/M3SDA/). Please extract the image data of each `DOMAIN` into `./DATASOURCE/domainnet/DOMAIN`. Make sure the `image_list` folder is in the `./DATASOURCE/domainnet/` (for 40 categories classification task).
-
-For pointDA-10 dataset can be download from [here](https://github.com/canqin001/PointDAN/tree/master?tab=readme-ov-file), provided in [PointDAN](https://github.com/canqin001/PointDAN) repo. Please unzip the data file into `./DATASOURCE/`, keeping its original folder name (`PointDA_data`).
 
 ---
 
-Make sure the provided `DATASOURCE` folder and the related `image_list*` folders are well downloaded.
+## Getting Started
 
-### 2. Models Preparation
+### 1. Data Preparation
 
-For Office-Home and VisDA datasets, we utilized the source models provided by previous Repos (including [SHOT](https://github.com/tim-learn/SHOT) and [NRC](https://github.com/Albert0147/NRC_SFDA)).
+#### Office-31 Dataset
+Download the dataset [here](https://drive.google.com/file/d/1dmEhhzoP-dnVOqsV_zDUNRKUy4dKN6Bl/view?usp=sharing). Unzip the `office.zip` file into `./DATASOURCE/`. Ensure the `image_list` folder is located in `./DATASOURCE/office/`.
 
-For Office-31 and Domainnet(40 categories classification task), we trained the source models by ourself following [SHOT](https://github.com/tim-learn/SHOT).
+#### Office-Home Dataset
+Download the dataset [here](https://drive.google.com/file/d/1gRSeLmBTKWjSiqe6jRWaNsXTqzDdqKPr/view?usp=sharing). Unzip the `office-home.zip` file into `./DATASOURCE/`. Ensure the `image_list_nrc` (for Office-Home) and `image_list_partial` (for partial set) are located in `./DATASOURCE/VISDA-C/`.
 
-For PointDA, we follow the instructions from [NRC](https://github.com/Albert0147/NRC_SFDA) and [PointDAN](https://github.com/canqin001/PointDAN) to train the source models.
+#### VisDA-2017 Dataset
+Download the original dataset [here](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification). Extract `train.tar` and `validation.tar` into `./DATASOURCE/VISDA-C/`. Ensure `image_list` (for VisDA2017) and `image_list_imb` (for VisDA-RUST) are located in `./DATASOURCE/VISDA-C/`.
 
-All model checkpoints are provided [here](https://drive.google.com/drive/folders/1SfPPaTu69ef4TAuaNeW6KSd7bMlqyg6l?usp=sharing). Please download the model checkpoints into `./Models/`.
+#### DomainNet Dataset
+Download the dataset [here](https://ai.bu.edu/M3SDA/). Extract the image data of each `DOMAIN` into `./DATASOURCE/domainnet/DOMAIN`. Ensure the `image_list` folder is located in `./DATASOURCE/domainnet/`.
+
+#### PointDA-10 Dataset
+Download the dataset [here](https://github.com/canqin001/PointDAN/tree/master?tab=readme-ov-file) from the [PointDAN repository](https://github.com/canqin001/PointDAN). Unzip the data file into `./DATASOURCE/` and retain its original folder name (`PointDA_data`).
+
+### Data Verification
+Ensure the `DATASOURCE` folder and the associated `image_list*` folders are correctly downloaded and organized as specified.
+
+---
+
+### 2. Model Preparation
+
+#### Pretrained Models
+- For Office-Home and VisDA datasets, we use source models provided by repositories such as [SHOT](https://github.com/tim-learn/SHOT) and [NRC](https://github.com/Albert0147/NRC_SFDA).
+- For Office-31 and DomainNet (40 categories classification), we trained source models ourselves following [SHOT](https://github.com/tim-learn/SHOT).
+- For PointDA, source model training follows the instructions in [NRC](https://github.com/Albert0147/NRC_SFDA) and [PointDAN](https://github.com/canqin001/PointDAN).
+
+#### Model Checkpoints
+Download all model checkpoints [here](https://drive.google.com/drive/folders/1SfPPaTu69ef4TAuaNeW6KSd7bMlqyg6l?usp=sharing) and place them in the `./Models/` directory.
+
+---
 
 ### 3. Adaptation Scripts
 
-#### 3.1 Image classification task
+#### 3.1 Image Classification Tasks
 
-We provide two adaptation configuration methods, through command line and yml config file. Here, we take office-home dataset as an example.
+You can configure adaptations using either command-line arguments or YAML configuration files. Below is an example for the Office-Home dataset.
 
-1. command line
-   - SHOT + ELR (or other LLN losses)
-     ```shell
-     python train_target_labelNoise_SFDA.py \
-       --dset office-home --source Ar --target Rw --net resnet50 --net_mode fc --list_name image_list_nrc \
-       --max_epoch 45 --interval 45 \
-       --root ./DATASOURCE \
-       --model_root ./Models/officehome \
-       --output_dir ./output \
-       --log_dir ./logs \
-       --expname tpami --key_info officehome_test_shot_elr --seed 2021 \
-       --lr_decay True --lr_decay_type shot --lr_F_coef 0.5 --weight_decay 0.0005 \
-       --is_shot True \ #SHOT
-       --is_lln True --lln_type elr --beta 0.6 --lamb 3.0 --lln_coef 0.3 \ # params for LLN losses, such as sl, gce, gjs
-     ```
-   - NVC-LLN
-       ```shell
-       python train_target_labelNoise_SFDA.py \
-       --dset office-home --source Ar --target Rw --net resnet50 --net_mode fc --list_name image_list_nrc \
-       --max_epoch 45 --interval 45 \
-       --root ./DATASOURCE \
-       --model_root ./Models/officehome \
-       --output_dir ./output \
-       --log_dir ./logs \
-       --expname tpami --key_info officehome_test_nvc_gce --seed 2021 \
-       --lr_decay True --lr_decay_type shot --lr_F_coef 0.5 --weight_decay 0.0005 \
-       --is_lln True --lln_type gce --beta 0.2 --lln_coef 0.3 --lln_mask True \ # C-LLN losses, such as sl, gce, gjs, elr
-       --is_ca True --K 3 --alpha 1 --alpha_beta 0.75 --alpha_decay False --smooth_ca 0.8 \ # smooth CA
-       --is_data_aug True --data_aug_coef 0.1 --data_aug_temp 1.0 \ # data aug alignment
-       ```
+##### Command-Line Example
 
-2. yml file
-
-    > YML config is prior to command line args
-
+- **SHOT + ELR (or other LLN losses):**
     ```shell
-    python train_target_labelNoise_SFDA.py --config ./config/oh_nvcgce_example.yml
+    python train_target_labelNoise_SFDA.py \
+    --dset office-home --source Ar --target Rw --net resnet50 --net_mode fc --list_name image_list_nrc \
+    --max_epoch 45 --interval 45 \
+    --root ./DATASOURCE \
+    --model_root ./Models/officehome \
+    --output_dir ./output \
+    --log_dir ./logs \
+    --expname tpami --key_info officehome_test_shot_elr --seed 2021 \
+    --lr_decay True --lr_decay_type shot --lr_F_coef 0.5 --weight_decay 0.0005 \
+    --is_shot True \ #SHOT
+    --is_lln True --lln_type elr --beta 0.6 --lamb 3.0 --lln_coef 0.3 # params for LLN losses, such as sl, gce, gjs
     ```
 
-#### 3.2 3D point cloud task
+- **NVC-LLN:**
 
-The code for pointda-10 dataset is built on [NRC](https://github.com/Albert0147/NRC_SFDA) and [PointDAN](https://github.com/canqin001/PointDAN). The parameters for ELR and NVC-LLN are same as those in `train_target_labelNoise_SFDA`. To conduct adaptation, please the script `./pointDA-10/train_tar_merged.py`
+    ```shell
+    python train_target_labelNoise_SFDA.py \
+    --dset office-home --source Ar --target Rw --net resnet50 --net_mode fc --list_name image_list_nrc \
+    --max_epoch 45 --interval 45 \
+    --root ./DATASOURCE \
+    --model_root ./Models/officehome \
+    --output_dir ./output \
+    --log_dir ./logs \
+    --expname tpami --key_info officehome_test_nvc_gce --seed 2021 \
+    --lr_decay True --lr_decay_type shot --lr_F_coef 0.5 --weight_decay 0.0005 \
+    --is_lln True --lln_type gce --beta 0.2 --lln_coef 0.3 --lln_mask True \ # C-LLN losses, such as sl, gce, gjs, elr
+    --is_ca True --K 3 --alpha 1 --alpha_beta 0.75 --alpha_decay False --smooth_ca 0.8 \ # smooth CA
+    --is_data_aug True --data_aug_coef 0.1 --data_aug_temp 1.0 \ # data aug alignment
+    ```
+
+##### YAML Configuration Example
+
+YAML configurations take precedence over command-line arguments.
+
+```shell
+python train_target_labelNoise_SFDA.py --config ./config/oh_nvcgce_example.yml
+```
+
+#### 3.2 3D Point Cloud Tasks
+
+For the PointDA-10 dataset, the code is built upon [NRC](https://github.com/Albert0147/NRC_SFDA) and [PointDAN](https://github.com/canqin001/PointDAN). Parameters for ELR and NVC-LLN are the same as those in `train_target_labelNoise_SFDA.py`. Use the script `./pointDA-10/train_tar_merged.py` for adaptation.
 
 <!-- ## Acknowledgement and citation -->
 
