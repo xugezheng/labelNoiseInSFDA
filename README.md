@@ -1,6 +1,6 @@
 # LabelNoiseInSFDA
 
-Official implementation for our paper **"Unraveling the Mysteries of Label Noise in Source-Free Domain Adaptation: Theory and Practice"**.
+Official implementation for our IEEE T-PAMI paper **"Unraveling the Mysteries of Label Noise in Source-Free Domain Adaptation: Theory and Practice"**.
 
 ---
 
@@ -126,5 +126,15 @@ python train_target_labelNoise_SFDA.py --config ./config/oh_nvcgce_example.yml
 
 For the PointDA-10 dataset, the code is built upon [NRC](https://github.com/Albert0147/NRC_SFDA) and [PointDAN](https://github.com/canqin001/PointDAN). Parameters for ELR and NVC-LLN are the same as those in `train_target_labelNoise_SFDA.py`. Use the script `./pointDA-10/train_tar_merged.py` for adaptation.
 
-<!-- ## Acknowledgement and citation -->
+---
 
+## Acknowledgement and citation 
+```
+@article{xu2025unraveling,
+  title={Unraveling the Mysteries of Label Noise in Source-Free Domain Adaptation: Theory and Practice},
+  author={Xu, Gezheng and Yi, Li and Xu, Pengcheng and Li, Jiaqi and Pu, Ruizhi and Shui, Changjian and Ling, Charles and McLeod, A Ian and Wang, Boyu},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
+}
+```
